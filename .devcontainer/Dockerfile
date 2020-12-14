@@ -14,4 +14,4 @@ RUN chmod +x /usr/local/bin/oryx-env \
     && ln -s /opt/java/lts /opt/java/current \
     && ln -s /opt/ruby/lts /opt/ruby/current \
     && ln -s /opt/yarn/stable /opt/yarn/current \
-    && ln -s /opt/maven/stable /opt/maven/current
+    && ln -s /opt/maven/lts /opt/maven/current
